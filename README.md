@@ -12,9 +12,9 @@
 ![DevSecOps](https://img.shields.io/badge/DevSecOps%20·%20Cloud%20·%20Security-633806?style=flat-square)
 
 [![Portafolio](https://img.shields.io/badge/🌐%20Portafolio-davidbaezdbz.github.io-0F6E56?style=for-the-badge)](https://davidbaezdbz.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Báez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-eduardo-baez-sanchez-dbz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Báez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidbaezsanchezdbz/)
 [![Email](https://img.shields.io/badge/Email-baezdavidsan@gmail.com-D85A30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baezdavidsan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-DavidBaezDbz-181717?style=for-the-badge&logo=github)](https://github.com/DavidBaezDbz)
+[![GitHub](https://img.shields.io/badge/GitHub-DavidBaezDbz-181717?style=for-the-badge&logo=github)](https://davideduardobaezsanchez.github.io)
 
 </div>
 
@@ -209,12 +209,12 @@ Responsable de la visión estratégica y ejecución integral del ecosistema tecn
 
 | Canal | Enlace |
 |:---:|:---:|
-| 🌐 Portafolio | [davidbaezdbz.github.io](https://davidbaezdbz.github.io/) |
-| 💼 LinkedIn | [david-eduardobaez-sanchez](https://www.linkedin.com/in/david-eduardo-baez-sanchez-dbz/) |
+| 🌐 Portafolio | [davidbaezdbz.github.io](https://davideduardobaezsanchez.github.io/) |
+| 💼 LinkedIn | [david-eduardobaez-sanchez](https://www.linkedin.com/in/davidbaezsanchezdbz/) |
 | 📧 Email | [baezdavidsan@gmail.com](mailto:baezdavidsan@gmail.com) |
 | 📞 Teléfono | +57 301 423 6122 |
 
-*Diseñado por DBZ · [dbzit.com.co](https://davidbaezdbz.github.io/)*
+*Diseñado por DBZ · [dbzit.com.co](https://davideduardobaezsanchez.github.io/)*
 
 </div>
 
