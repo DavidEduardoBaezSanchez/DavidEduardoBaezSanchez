@@ -209,10 +209,10 @@ Responsable de la visión estratégica y ejecución integral del ecosistema tecn
 
 | Canal | Enlace |
 |:---:|:---:|
-| 🌐 Portafolio | [davidbaezdbz.github.io](https://davideduardobaezsanchez.github.io/) |
-| 💼 LinkedIn | [david-eduardobaez-sanchez](https://www.linkedin.com/in/davidbaezsanchezdbz/) |
+| 🌐 Portafolio | [davideduardobaezsanchez.github.io](https://davideduardobaezsanchez.github.io/) |
+| 💼 LinkedIn | [davidbaezsanchezdbz](https://www.linkedin.com/in/davidbaezsanchezdbz/) |
 | 📧 Email | [baezdavidsan@gmail.com](mailto:baezdavidsan@gmail.com) |
-| 📞 Teléfono | +57 301 423 6122 |
+| 📞 Teléfono | +57 301 423 XXXX |
 
 *Diseñado por DBZ · [dbzit.com.co](https://davideduardobaezsanchez.github.io/)*
 
